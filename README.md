@@ -27,7 +27,7 @@ Steps
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ai-resume-screening.git
+git clone https://github.com/satyam2003-cpu/project_resume_screening.git
 cd ai-resume-screening
 
 
